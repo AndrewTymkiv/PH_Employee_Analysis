@@ -22,3 +22,4 @@ Next, the analysis receives the count employees born in 1965 that are eligible t
 
 ---
 ## Summary
+Based on this analysis, Pewlett-Hackard has a tough issue on their hands in the coming years. There are over 90,000 employees set to retire and only 1,550 that are eligible for mentorship. That is a very small number of employees tasked with the assignment of mentoring over 90,000 replacements. In order to avoid challenges, Pewlett-Hackard should broaden the age range eligible for the mentorship program in order to increase the number of available mentors and ensure a smoother transition process for all the replacemnts. 
